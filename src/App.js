@@ -10,7 +10,7 @@ function App() {
       <Router>
       <Routes>
         <Route path='/' element={<Day1 />} />
-        <Route path='/match/day1' element={<Day1 />} />
+        <Route path='/match2/day1' element={<Day1 />} />
         <Route path='/match/day2' element={<Day2 />} />
         <Route path='/match/day3' element={<Day3 />} />
       </Routes>
